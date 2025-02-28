@@ -10,4 +10,8 @@ This project explores a novel approach to **music genre classification** using *
 ## **Paper**  
 The detailed research paper can be accessed here: **[ArXiv: 2411.14474](https://arxiv.org/pdf/2411.14474)**  
 
+## Contact
+For inquiries, please reach out to:
 
+- **Aditya Sridhar** - aditya.sridharr.11@gmail.com
+- **GitHub**: [My GitHub profile](https://github.com/adityaSridharr)
